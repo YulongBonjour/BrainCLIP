@@ -1,5 +1,6 @@
 # BrainCLIP: Bridging Brain and Visual-Linguistic Representation Via CLIP for Generic Natural Visual Stimulus Decoding
-Coming soon~
+#News 
+  * 2023-09-16 GOD annotations are released.
 # Citation
 ```
 @article{liu2023brainclip,
