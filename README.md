@@ -2,6 +2,8 @@
 # News 
   * 2023-09-16 GOD annotations are released.
 
+The code for fMRI embedding guided diffusion is provided. You can change the CLIP visual encoder and using your fMRI embeddings to generate images.
+
 Download Pretrained Diffusion Model from OpenAI by clicking [here](https://openaipublic.blob.core.windows.net/diffusion/jul-2021/256x256_diffusion_uncond.pt)
 
 # Data License
