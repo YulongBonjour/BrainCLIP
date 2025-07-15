@@ -2,7 +2,7 @@
 # News 
   * 2023-09-16 GOD annotations are released.
 
-Download Pretrained Diffusion Model form OpenAI by clicking [here](https://openaipublic.blob.core.windows.net/diffusion/jul-2021/256x256_diffusion_uncond.pt)
+Download Pretrained Diffusion Model from OpenAI by clicking [here](https://openaipublic.blob.core.windows.net/diffusion/jul-2021/256x256_diffusion_uncond.pt)
 
 # Data License
 The Datasets are provided to You under the terms of
