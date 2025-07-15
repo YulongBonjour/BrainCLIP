@@ -78,7 +78,7 @@ vq_parser.add_argument("-is", "--init_scale", type=int, help="Initial image scal
                        dest='init_scale')  # This enhances the effect of the init image, a good value is 1000.
 vq_parser.add_argument("-t", "--timesteps", type=str, help="Number of timesteps", default='800',
                        dest='timesteps')  # number(s) (Can be comma separated) or one of ddim25, ddim50, ddim150, ddim250, ddim500, ddim1000 (must be mod0 of diffusion_steps)
-vq_parser.add_argument("-ds", "--diffusion_steps", type=int, help="Diffusion steps", default=800,
+vq_parser.add_argument("-ds", "--diffusion_steps", type=int, help="Diffusion steps", default=1000,
                        dest='diffusion_steps')
 vq_parser.add_argument("-se", "--save_every", type=int, help="Image update frequency", default=5, dest='save_every')
 
